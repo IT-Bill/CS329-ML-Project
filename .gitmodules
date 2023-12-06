@@ -1,0 +1,3 @@
+[submodule "paper/LaneATT"]
+	path = paper/LaneATT
+	url = https://github.com/lucastabelini/LaneATT.git
